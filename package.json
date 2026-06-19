@@ -1,0 +1,12 @@
+
+
+
+{
+  "name": "telugu-dumb-charades",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.0"
+  }
+}
