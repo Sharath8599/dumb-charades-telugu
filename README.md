@@ -10,7 +10,7 @@ https://dumbcharades-telugu.netlify.app/
 
 ## 📸 Preview
 
-![Telugu Dumb Charades](./screenshot.png)
+![Telugu Dumb Charades](./Users/sharathprathapagiri/Documents/telugu-dumb-charades/dumb-charades-telugu.png)
 
 ## ✨ Features
 
